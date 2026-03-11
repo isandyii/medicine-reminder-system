@@ -1,5 +1,10 @@
 # Medicine Reminder System
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/isandyii/medicine-reminder-system?style=social)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 ## Description
 
 The **Medicine Reminder System** is a command-line Python application that helps users manage and track their medicine schedules efficiently.
@@ -91,3 +96,4 @@ This project will continue to be improved with additional features such as:
 ## Author
 
 Developed as a Python learning project to practice modular programming, file handling, and automation.
+
